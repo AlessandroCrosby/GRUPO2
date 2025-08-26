@@ -4,7 +4,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
 
 ## Integrantes del Equipo y Roles
 ### Condori Pompilio, Pabel Mario
-!
+![FotoDeMario](https://github.com/AlessandroCrosby/Miau/blob/240f204efc44a4a1535c6aee6adb4f57ec2b5c4b/FotosDeCaras/FotoDeMario.jpg)
 Rol: Modelado 3D
 ⁠Responsabilidades:
 Creación de bocetos y prototipos
