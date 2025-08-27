@@ -44,6 +44,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
   - Apoyo al realizar los bocetos
     
 ### Fernandez García, Paola Andrea
+![FotoDePaola](https://github.com/AlessandroCrosby/Miau/blob/b08f5303cf43a1c95622065ab225866fe5a10f98/FotosDeCaras/FotoDePaola.jpg)
 - Edad: 18
 - Sobre mí: Me encanta hacer manualidades y origami. Apasionada por la tecnología.
 - Rol: Electrónica
