@@ -52,7 +52,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
   - Apoyo en el desarrollo del sistema electrónico
     
 ### Fuentes Contreras, Arianna Fabiana del Valle
-
+![FotoDeArianna](https://github.com/AlessandroCrosby/Miau/blob/5038ade1e0c8e9c9a4aab2c47fdb787b06c4a7c2/FotosDeCaras/FotoDeArianna.jpg)
 - Edad: 18
 - Sobre mi: Dibujar, tocar la guitarra, rugby y jugar con mi perro.
 - Rol: Diseñadora de prototipo e investigador
