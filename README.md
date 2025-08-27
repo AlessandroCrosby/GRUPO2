@@ -35,7 +35,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
   - Traer la laptop
     
 ### Espinoza Padilla, Sebastian Amadeus
-
+![FotoDeSebastian](https://github.com/AlessandroCrosby/Miau/blob/4b704fb21fa11698670febe02ab19d428c6bc409/FotosDeCaras/FotoDeSebastian.jpg)
 - Edad: 18
 - Rol: Electrónica y programación , prototipo, investigador.
 - Responsabilidades:
