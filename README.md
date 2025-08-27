@@ -16,7 +16,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
   - Selección de materiales
 
 ### Cordova Palomino, Brandy Abigail
-!
+![FotoDeBrandy](https://github.com/AlessandroCrosby/Miau/blob/fef3437c8e6edf6fd0e9829bace2bccf56409807/FotosDeCaras/FotoDeBrandy.jpg)
 - Edad: 18 años
 - Sobre mí: Me gusta cocinar y jugar
 - Rol: Modelado 3D y prototipado
