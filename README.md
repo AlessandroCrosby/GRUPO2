@@ -9,6 +9,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
 
 ### Condori Pompilio, Pabel Mario
 ![FotoDeMario](https://github.com/AlessandroCrosby/Miau/blob/240f204efc44a4a1535c6aee6adb4f57ec2b5c4b/FotosDeCaras/FotoDeMario.jpg)
+<img src="[ruta/a/la/imagen.png](https://github.com/AlessandroCrosby/Miau/blob/240f204efc44a4a1535c6aee6adb4f57ec2b5c4b/FotosDeCaras/FotoDeMario.jpg)" alt="Descripción de la imagen" width="300" height="200">
 - Edad: 19 años
 - Sobre mí: Hola soy Mario
 - Rol: Modelado 3D
