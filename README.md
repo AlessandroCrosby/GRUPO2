@@ -20,6 +20,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
 
 ### Cordova Palomino, Brandy Abigail
 <img src="https://github.com/AlessandroCrosby/Miau/blob/fef3437c8e6edf6fd0e9829bace2bccf56409807/FotosDeCaras/FotoDeBrandy.jpg" alt="Mario" width="300" height="300">
+
 - Edad: 18 años
 - Sobre mí: Me gusta cocinar y jugar
 - Rol: Modelado 3D y prototipado
@@ -31,6 +32,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
 
 ### Crosby Collantes, Alessandro Nicolas
 <img src="https://github.com/AlessandroCrosby/Miau/blob/d0a7a260c52d5dcbeff25a20ce6e7a14665bb0ed/FotosDeCaras/FotoDeNico.jpg" alt="Mario" width="300" height="300">
+
 - Edad: 18 años
 - Sobre mí: Me gusta ir al gimnasio y practico powerlifting :3.
 - Rol: Gestión del repositorio y quien trae la laptop
@@ -39,6 +41,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
     
 ### Espinoza Padilla, Sebastian Amadeus
 <img src="https://github.com/AlessandroCrosby/Miau/blob/4b704fb21fa11698670febe02ab19d428c6bc409/FotosDeCaras/FotoDeSebastian.jpg" alt="Mario" width="300" height="300">
+
 - Edad: 18
 - Rol: Electrónica y programación , prototipo, investigador.
 - Responsabilidades:
@@ -48,6 +51,7 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
     
 ### Fernandez García, Paola Andrea
 <img src="https://github.com/AlessandroCrosby/Miau/blob/b08f5303cf43a1c95622065ab225866fe5a10f98/FotosDeCaras/FotoDePaola.jpg" alt="Mario" width="300" height="300">
+
 - Edad: 18
 - Sobre mí: Me encanta hacer manualidades y origami. Apasionada por la tecnología.
 - Rol: Electrónica
@@ -56,11 +60,14 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
     
 ### Fuentes Contreras, Arianna Fabiana del Valle
 <img src="https://github.com/AlessandroCrosby/Miau/blob/5038ade1e0c8e9c9a4aab2c47fdb787b06c4a7c2/FotosDeCaras/FotoDeArianna.jpg" alt="Mario" width="300" height="300">
+
 - Edad: 18
 - Sobre mi: Dibujar, tocar la guitarra, rugby y jugar con mi perro.
 - Rol: Diseñadora de prototipo e investigador
 - Responsabilidades:
   - Investigacion de tendencias y avances tecnológicos.
-Realizar bocetos de los prototipos
+  - Realizar bocetos de los prototipos
+ 
+  
 Gracias por visitar nuestro repositorio!
 Explora los archivos y conoce más sobre el desarrollo de nuestro dispositivo biomédico
