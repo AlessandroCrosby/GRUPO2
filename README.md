@@ -69,6 +69,6 @@ Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes de
   - Realizar bocetos de los prototipos
  
   
-###Gracias por visitar nuestro repositorio!
+### Gracias por visitar nuestro repositorio!
 
-###Explora los archivos y conoce más sobre el desarrollo de nuestro dispositivo biomédico
+### Explora los archivos y conoce más sobre el desarrollo de nuestro dispositivo biomédico
