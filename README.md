@@ -3,6 +3,7 @@
 
 ## Descripción del Equipo - Fundamentos de Biodiseño
 Este repositorio contiene el proyecto realizado por el Grupo 2 de estudiantes del 4.° ciclo de Ingeniería Biomédica para el curso de Fundamentos de Biodiseño. Nuestro objetivo fue resolver un desafío real mediante el diseño y desarrollo de un dispositivo biomédico, aplicando conocimiento en electrónica, modelado 3D, investigación y prototipado.
+
 ![FotoGrupal](https://github.com/AlessandroCrosby/Miau/blob/f1dd4050d0f23f596267f2ae7e80ad22ca51997b/FotosGrupales/FotoGrupal.jpg)
 
 ## Integrantes del Equipo y Roles
